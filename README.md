@@ -1,3 +1,6 @@
+# Project by Christopher Sorg, Fabian Plett and Nikita Datcenko
+# SAT Solver out of course SAT Solving in winter semester 2020/21 at LMU Munich
+
 # How to run CDCL solver
 
 ``python cdcdl.py <path to sat instance>``
